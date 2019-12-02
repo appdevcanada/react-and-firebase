@@ -1,0 +1,140 @@
+body {
+  background-color: hsl(0, 0%, 90%);
+}
+
+p {
+  margin-bottom: 0.75rem;
+}
+
+a {
+  padding: 5px;
+  color: hsl(0, 0%, 70%);
+  font-size: 2.5rem;
+}
+
+a:hover {
+  text-decoration: none;
+  background-color: hsl(0, 0%, 79%);
+  color: hsl(0, 0%, 30%);
+  padding: 5px;
+  border-radius: 5px;
+}
+
+label {
+  font-size: 1rem;
+}
+
+#list {
+  z-index: 50;
+  margin-top: 11vh;
+}
+
+.form-control {
+  font-size: 1.1rem;
+}
+
+.card-body {
+  background-color: hsl(0, 0%, 95%);
+}
+
+.App-header {
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  width: 100%;
+  height: 10vh;
+  background-color: hsl(200, 6%, 20%);
+  box-shadow: 0 8px 18px 0 hsla(0, 0%, 0%, 0.25), 0 12px 24px 0 hsla(0, 0%, 0%, 0.5);
+  display: flex;
+  font-size: 1.2rem;
+  color: hsl(0, 0%, 80%);
+}
+
+.btn-secondary {
+  background-color: transparent
+}
+
+.btn {
+   width: 100px;
+}
+
+.logo {
+  height: 50px;
+}
+
+.title {
+  font-size: 2rem;
+}
+
+.error {
+  color: hsl(0, 93%, 57%);
+  text-align: center;
+}
+
+/******** MEDIAS *********/
+@media (max-width: 767px) {
+  a {
+    font-size: 2rem;
+  }
+
+  .App-header {
+      font-size: 0.9rem;
+  }
+
+  .logo {
+    height: 30px;
+  }
+
+  .btn {
+    width: 65px;
+    font-size: 0.7rem;
+  }
+
+  .title {
+    font-size: 1.2rem;
+  }
+
+  .card-title, .card-text {
+      font-size: 0.8rem;
+    }
+
+  .form-control {
+    font-size: 1rem;
+  }
+
+}
+
+@media (max-width: 360px) {
+  a {
+    font-size: 1.5rem;
+  }
+
+  label {
+    font-size: 0.8rem;
+  }
+
+  .App-header {
+      font-size: 0.8rem;
+  }
+
+  .logo {
+    height: 25px;
+  }
+  .btn {
+    width: 55px;
+    font-size: 0.5rem;
+  }
+
+  .title {
+    font-size: 1rem;
+  }
+
+  .card-title, .card-text {
+    font-size: 0.8rem;
+  }
+
+  .form-control {
+    font-size: 0.7rem;
+  }
+
+}

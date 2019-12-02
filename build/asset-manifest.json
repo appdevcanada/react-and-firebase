@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mad9135-p1-react-crud-list/static/css/main.63f0c5dc.chunk.css",
+    "main.js": "/mad9135-p1-react-crud-list/static/js/main.01fa4650.chunk.js",
+    "main.js.map": "/mad9135-p1-react-crud-list/static/js/main.01fa4650.chunk.js.map",
+    "runtime-main.js": "/mad9135-p1-react-crud-list/static/js/runtime-main.c813c03e.js",
+    "runtime-main.js.map": "/mad9135-p1-react-crud-list/static/js/runtime-main.c813c03e.js.map",
+    "static/css/2.510409cd.chunk.css": "/mad9135-p1-react-crud-list/static/css/2.510409cd.chunk.css",
+    "static/js/2.7a82693d.chunk.js": "/mad9135-p1-react-crud-list/static/js/2.7a82693d.chunk.js",
+    "static/js/2.7a82693d.chunk.js.map": "/mad9135-p1-react-crud-list/static/js/2.7a82693d.chunk.js.map",
+    "index.html": "/mad9135-p1-react-crud-list/index.html",
+    "precache-manifest.21cfb53119a77e634f3e997dc38230a7.js": "/mad9135-p1-react-crud-list/precache-manifest.21cfb53119a77e634f3e997dc38230a7.js",
+    "service-worker.js": "/mad9135-p1-react-crud-list/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/mad9135-p1-react-crud-list/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.63f0c5dc.chunk.css.map": "/mad9135-p1-react-crud-list/static/css/main.63f0c5dc.chunk.css.map",
+    "static/media/favicon.png": "/mad9135-p1-react-crud-list/static/media/favicon.129b27ae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c813c03e.js",
+    "static/css/2.510409cd.chunk.css",
+    "static/js/2.7a82693d.chunk.js",
+    "static/css/main.63f0c5dc.chunk.css",
+    "static/js/main.01fa4650.chunk.js"
+  ]
+}
